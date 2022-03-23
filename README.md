@@ -1,4 +1,4 @@
-# minicurso_python_para_oceanografia
+# curso_python_para_oceanografia
 Curso de python para oceanógrafos e cientístas ambientais.
 Instrutor: Gustavo Leitão(Oceanógrafo e Cientísta de dados em formação)
 
